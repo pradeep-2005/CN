@@ -22,3 +22,9 @@ mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArti
 
 mvn compile
 
+===============
+command for gradle 
+
+gradle init
+
+gradle build
