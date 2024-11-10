@@ -14,3 +14,11 @@ sudo apt install jenkins -y
 
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
+
+========================
+command for maven 
+
+mvn archetype:generate -DgroupId=com.example -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn compile
+
